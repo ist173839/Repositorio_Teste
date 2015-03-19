@@ -1,3 +1,0 @@
-void formatar(int mac){
-
-}
